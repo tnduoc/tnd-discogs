@@ -1,5 +1,5 @@
 {
-    "name": "tnduoc/api-discogs",
+    "name": "tnd/api-discogs",
     "description": "The Discogs API makes it easy for developers to communicate with the Discogs platform",
     "type": "library",
     "keywords": ["discogs", "api"],
